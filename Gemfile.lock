@@ -1,0 +1,12 @@
+GEM
+  specs:
+    require (0.2.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  require
+
+BUNDLED WITH
+   2.0.1
