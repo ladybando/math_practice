@@ -1,0 +1,4 @@
+-need addition subtraction division and multiplication
+-students should complete 19 pages per exercise
+-upon completing 19 pages at 100% 10 times, math will advance to next level
+-student must log in to save progress
